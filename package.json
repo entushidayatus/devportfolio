@@ -1,0 +1,14 @@
+{
+  "name": "devportfolio",
+  "version": "1.0.0",
+  "description": "Entus Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "EntusHidayat",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
